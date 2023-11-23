@@ -7,8 +7,8 @@
 <h2>🚀 Things I code with.</h3>
 <p>
 <img alt="Csharp" src="https://img.shields.io/badge/-CSharp-45b8d8?style=flat-square&logo=Csharp&logoColor=white" />
-<img alt=".NET" src="https://img.shields.io/badge/-.NET-078feb?style=flat-square&logo=.NET&logoColor=white" />
-<img alt="react" src="https://img.shields.io/badge/-React-0092bf?style=flat-square&logo=react&logoColor=white" />
+<img alt=".NET" src="https://img.shields.io/badge/-.NET-0c92ed?style=flat-square&logo=.NET&logoColor=white" />
+<img alt="react" src="https://img.shields.io/badge/-React-097ddb?style=flat-square&logo=react&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0072bf?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Css" src="https://img.shields.io/badge/-CSS-5849BE?style=flat-square&logo=Less&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
