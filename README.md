@@ -19,6 +19,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffd500?style=flat-square&logo=JavaScript&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-f5b507?style=flat-square&logo=jQuery&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-3dbd31?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="WebComponents" src="https://img.shields.io/badge/-Web Components-249419?style=flat-square&logo=webcomponents&logoColor=white" />
 </p>
 
 <h2>🔢 Some stats.</h3>
