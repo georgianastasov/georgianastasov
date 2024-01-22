@@ -1,7 +1,6 @@
 <h2>👋 Hey! Nice to see you.</h1>
 <p>Welcome to my page!</p>
-<p>I'm Georgi Anastasov, Software Developer with <strong>1+</strong> years of experience in developing software. </br> I'm from <img src="https://flagpedia.net/data/flags/w40/bg.webp" width="13"/> <b>Haskovo, Bulgaria</b>, currently living in <img src="https://flagpedia.net/data/flags/w40/bg.webp" width="13"/> <b>Sofia, Bulgaria</b>.</p>
-
+<p>I'm Georgi Anastasov, Software Developer with <strong>1+</strong> years of experience in developing software. </br> I'm 24 years old from <img src="https://flagpedia.net/data/flags/w40/bg.webp" width="13"/> <b>Haskovo, Bulgaria</b>.
 <p>I have a :man_student:<strong>bachelor's</strong> and :man_student:<strong>master's</strong> degree from the <strong>Technical University of Sofia</strong> </br> in the field of <strong>Informatics and Software Sciences</strong>.</p>
 
 <h2>🚀 Things I code with.</h3>
