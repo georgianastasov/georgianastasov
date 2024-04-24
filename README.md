@@ -23,6 +23,8 @@
 
 <h2>🔢 Some stats.</h3>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=georgianastasov&show_icons=true&count_private=true" alt="georgianastasov" />
+
+<h2>👀 Viewers.</h3>
 <img src="https://komarev.com/ghpvc/?username=georgianastasov&style=for-the-badge&color=blue" alt="georgianastasov" />
 
 <h2>💬 Where to find me.</h3>
