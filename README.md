@@ -28,6 +28,13 @@
 <h2>👀 Viewers.</h3>
 <img src="https://komarev.com/ghpvc/?username=georgianastasov&style=for-the-badge&color=blue" alt="georgianastasov" />
 
+<h2>🎉 Fun facts.</h3>
+<p>
+I'm currently learning <strong>Japanese</strong> and can't wait to visit <strong>Japan</strong>. <img src="https://flagpedia.net/data/flags/w580/jp.webp" width="13"/></br>
+I'm <strong>working</strong> on an exciting secret project. 🕵️ </br>
+I'm fascinated by <strong>artificial intelligence</strong> and frequently utilize it. 🤖
+</p>
+
 <h2>💬 Where to find me.</h3>
 <p>
   <a href="https://georgianastasov.github.io/anastasov-cv.github.io/" target="_blank"><img alt="Potfolio" src="https://img.shields.io/badge/Portfolio-%047000E.svg?&style=for-the-badge&logo=GoogleCloud&logoColor=white"/></a> 
