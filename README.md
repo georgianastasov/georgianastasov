@@ -33,7 +33,7 @@
 <p>
 I'm currently learning <strong>Japanese</strong> and planning to visit <strong>Japan</strong>. <img src="https://flagpedia.net/data/flags/w580/jp.webp" width="13"/></br>
 I'm <strong>working</strong> on an exciting secret project. 🕵️ </br>
-I'm fascinated by <strong>artificial intelligence</strong> and frequently utilize it. 🤖
+I'm fascinated by <strong>Artificial Intelligence</strong> and frequently utilize it. 🤖
 </p>
 
 <h2>💬 Where to find me.</h3>
