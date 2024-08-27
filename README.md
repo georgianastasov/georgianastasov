@@ -33,6 +33,7 @@
 <img src="https://komarev.com/ghpvc/?username=georgianastasov&style=for-the-badge&color=blue" alt="georgianastasov" />
 
 <h2>🎉 Fun facts.</h3>
+
 <p>
 I'm currently learning <strong>Japanese</strong> and planning to visit <strong>Japan</strong>. <img src="https://flagpedia.net/data/flags/w580/jp.webp" width="13"/></br>
 I'm <strong>working</strong> on an exciting secret project. 🕵️ </br>
