@@ -1,6 +1,6 @@
 <h2>👋 About me.</h1>
 
-<p><strong>Hey!</strong> Nice to see you.</p> 
+<p><strong>Hey!</strong> Nice to see you...</p> 
 <p>I'm Georgi Anastasov, 💻Software Developer with <strong>2️⃣+</strong> years of experience in developing software. </br> I'm <strong>25</strong>⭐ years old from <img src="https://flagpedia.net/data/flags/w40/bg.webp" width="13"/> <b>Haskovo, Bulgaria</b> and I love to ⚡code. 
 <p>I have a :man_student:<strong>bachelor's</strong> and :man_student:<strong>master's</strong> degree from the 🏢<strong>Technical University of Sofia</strong> </br> in the field of 💾<strong>Informatics and Software Sciences</strong>.</p>
 <p>I am currently working at ⬆️<strong>Infragistics</strong> as a software developer.</p>
