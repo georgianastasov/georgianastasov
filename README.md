@@ -27,7 +27,7 @@
 </p>
 
 <h2>🔢 Some stats.</h3>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=georgianastasov&show_icons=true&count_private=true" alt="georgianastasov" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=georgianastasov&show_icons=true&locale=en&theme=dark" alt="dhie-boop" />
 
 <h2>👀 Viewers.</h3>
 <img src="https://komarev.com/ghpvc/?username=georgianastasov&style=for-the-badge&color=blue" alt="georgianastasov" />
