@@ -1,13 +1,14 @@
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0c92ed&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Georgi!+%F0%9F%91%8B;Software+Developer+at+Infragistics;Full-Stack+.NET+%26+Angular;AI+Enthusiast+%7C+Tech+Lover" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0c92ed&center=false&vCenter=true&width=600&lines=Hi+there,+I'm+Georgi!+%F0%9F%91%8B;Software+Developer+at+Infragistics;Full-Stack+.NET+%26+Angular;AI+Enthusiast+%7C+Tech+Lover" alt="Typing SVG" />
   </a>
 
   <p>
     <a href="https://www.linkedin.com/in/georgi-anastasov-97a733240/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://stackblitz.com/@georgianastasov" target="_blank"><img alt="StackBlitz" src="https://img.shields.io/badge/StackBlitz-430098?&style=for-the-badge&logo=StackBlitz&logoColor=white"/></a>
     <a href="https://georgianastasov.github.io/anastasov-cv.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%047000E.svg?&style=for-the-badge&logo=GoogleCloud&logoColor=white"/</a>
-    <a href="https://codesandbox.io/u/georgianastasov" target="_blank"><img alt="CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-%2312100E.svg?&style=for-the-badge&logo=CodeSandbox&logoColor=white"/></a>
+    <a href="https://www.hackerrank.com/your_username" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+    <a href="https://codesandbox.io/u/georgianastasov" target="_blank"><img alt="CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-FF9900?style=for-the-badge&logo=CodeSandbox&logoColor=white"/></a>
     <a href="mailto:ggeorgianastasov@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-DF341E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 </div>
