@@ -29,6 +29,8 @@
 <h2>🔢 Some stats.</h3>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=georgianastasov&theme=dark" alt="streak-stats" />
 
+![YTD Stats](https://github-contribution-stats.vercel.app/api/?username=georgianastasov)
+
 <h2>👀 Viewers.</h3>
 <img src="https://komarev.com/ghpvc/?username=georgianastasov&style=for-the-badge&color=blue" alt="georgianastasov" />
 
