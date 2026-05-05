@@ -22,7 +22,7 @@ With over **4+ years** of experience in software development, I am passionate ab
 * 💼 Currently working as a Software Developer at **⬆️ Infragistics**.
 * 🎓 Hold a **Bachelor's** & **Master's** degree in *Informatics and Software Sciences* from the **Technical University of Sofia**.
 * <img src="https://flagpedia.net/data/flags/w580/jp.webp" width="13"/> **Fun Fact:** I'm currently learning **Japanese** and plotting my future trip to Japan! 
-* 🕵️‍♂️ **On the side:** Hacking away at an exciting secret project.
+* 🕵️‍♂️ **On the side:** Hacking away at an exciting secret project..
 * 🤖 **Tech Interests:** Deeply fascinated by **Artificial Intelligence** and actively integrating it into my workflows.
 
 
