@@ -71,6 +71,16 @@ With over **4+ years** of experience in software development, I am passionate ab
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-d10302?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
+**AI & Agentic Development:** 
+<p> 
+  <img alt="AI Agents" src="https://img.shields.io/badge/-AI%20Agents-7C3AED?style=flat-square&logo=openai&logoColor=white" /> 
+  <img alt="MCP" src="https://img.shields.io/badge/-MCP-0C92ED?style=flat-square&logoColor=white" /> 
+  <img alt="Agent Skills" src="https://img.shields.io/badge/-Agent%20Skills-9333EA?style=flat-square&logoColor=white" /> 
+  <img alt="AI Plugins" src="https://img.shields.io/badge/-AI%20Plugins-DB2777?style=flat-square&logoColor=white" /> 
+  <img alt="Agent Harnesses" src="https://img.shields.io/badge/-Agent%20Harnesses-2563EB?style=flat-square&logoColor=white" /> 
+  <img alt="Agent Orchestration" src="https://img.shields.io/badge/-Agent%20Orchestration-059669?style=flat-square&logoColor=white" /> 
+</p> 
+
 ---
 
 ### 📊 GitHub Stats
