@@ -81,6 +81,15 @@ With over **4+ years** of experience in software development, I am passionate ab
   <img alt="Agent Orchestration" src="https://img.shields.io/badge/-Agent%20Orchestration-059669?style=flat-square&logoColor=white" /> 
 </p> 
 
+**AI Development Tools:**
+
+<p>
+  <img alt="Claude Code" src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img alt="OpenAI Codex" src="https://img.shields.io/badge/-OpenAI%20Codex-10A37F?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="GitHub Copilot" src="https://img.shields.io/badge/-GitHub%20Copilot-24292F?style=flat-square&logo=githubcopilot&logoColor=white" />
+  <img alt="OpenCode" src="https://img.shields.io/badge/-OpenCode-F59E0B?style=flat-square&logoColor=white" />
+</p>
+
 ---
 
 ### 📊 GitHub Stats
