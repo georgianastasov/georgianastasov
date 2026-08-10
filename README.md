@@ -32,7 +32,7 @@ With over **4+ years** of experience in software development, I am passionate ab
 * 🤖 Building and experimenting with **AI agents**, **skills**, **plugins**, and **MCP servers**.
 * 🧩 Exploring different **agent harnesses** and AI-powered development workflows.
 * 🛠️ Working with **Claude Code**, **OpenAI Codex**, **GitHub Copilot**, **OpenCode**, and other emerging AI coding platforms.
-* 🚀 Always testing new ways to make software development faster, smarter, and more autonomous.
+* 🚀 Always testing new ways to make software development faster and smarter.
 
 ---
 
