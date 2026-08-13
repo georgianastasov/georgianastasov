@@ -1,6 +1,6 @@
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0c92ed&center=false&vCenter=true&width=600&lines=Hi+there,+I'm+Georgi!+%F0%9F%91%8B;Software+Developer+at+Infragistics.;Full-Stack+.NET+%26+Angular.;AI+Enthusiast+and+Tech+Lover." alt="Info typing animation SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=DC143C&center=false&vCenter=true&width=600&lines=Hi+there,+I'm+Georgi!+%F0%9F%91%8B;Software+Developer+at+Infragistics.;Full-Stack+.NET+%26+Angular.;AI+Enthusiast+and+Tech+Lover." alt="Info typing animation SVG" />
   </a>
 
   <p>
@@ -37,7 +37,7 @@ With over **4+ years** of experience in software development, I am passionate ab
 ---
 
 ### 📈 Profile Traffic
-<img src="https://komarev.com/ghpvc/?username=georgianastasov&style=flat-square&color=blue" alt="georgianastasov profile views" />
+<img src="https://komarev.com/ghpvc/?username=georgianastasov&style=flat-square&color=red" alt="georgianastasov profile views" />
 
 ---
 
