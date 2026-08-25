@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-With over **4+ years** of experience in software development, I am passionate about writing clean code and building scalable applications. I'm 27 years old, proudly from **Haskovo, Bulgaria** <img src="https://flagpedia.net/data/flags/w40/bg.webp" width="16" alt="Bulgaria flag" />.
+With over **4+ years** of experience in software development, I am passionate about writing clean code and building scalable applications. I'm 27 years old, from **Haskovo, Bulgaria** <img src="https://flagpedia.net/data/flags/w40/bg.webp" width="16" alt="Bulgaria flag" />.
 
 * 💼 Currently working as a Software Developer at **⬆️ Infragistics**.
 * 🎓 Hold a **Bachelor's** & **Master's** degree in *Informatics and Software Sciences* from the **Technical University of Sofia**.
