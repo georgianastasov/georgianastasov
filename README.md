@@ -98,9 +98,7 @@ With over **4+ years** of experience in software development, I am passionate ab
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgianastasov&theme=dark&hide_border=true" alt="streak-stats" />
 </div>
-
 <br/>
-
 <div>
   <img src="https://github-contribution-stats.vercel.app/api/?username=georgianastasov&theme=dark" alt="YTD Stats" />
 </div>
