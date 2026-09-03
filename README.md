@@ -83,7 +83,6 @@ With over **4+ years** of experience in software development, I am passionate ab
 </p> 
 
 **AI Development Tools:**
-
 <p>
   <img alt="Claude Code" src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img alt="OpenAI Codex" src="https://img.shields.io/badge/-OpenAI%20Codex-10A37F?style=flat-square&logo=openai&logoColor=white" />
