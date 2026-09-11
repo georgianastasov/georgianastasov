@@ -1,6 +1,9 @@
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=DC143C&center=false&vCenter=true&width=600&lines=Hi+there,+I'm+Georgi!+%F0%9F%91%8B;Software+Developer+at+Infragistics.;Full-Stack+.NET+%26+Angular.;AI+Enthusiast+and+Tech+Lover." alt="Info Typing Animation SVG" />
+    <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=DC143C&vCenter=true&width=750&lines=Hi+there,+I'm+Georgi!+%F0%9F%91%8B;Software+Developer+at+Infragistics.;Full-Stack+Developer+%7C+.NET+%26+Angular.;Building+AI+Agents,+MCP+Servers+%26+AI+Workflows."
+    alt="Typing SVG"
+  />
   </a>
 
   <p>
