@@ -105,5 +105,5 @@ With over **4+ years of professional experience** of experience in software deve
 <br/>
 
 <div>
-  <img src="https://github-contribution-stats.vercel.app/api/?username=georgianastasov&theme=dark" alt="YTD Stats" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=georgianastasov&theme=dark" alt="ytd-stats" />
 </div>
