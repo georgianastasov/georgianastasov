@@ -29,7 +29,7 @@ With over **4+ years of professional experience** of experience in software deve
 
 ---
 
-### ⚡ Currently Building & Exploring
+### ⚡ Currently Building and Exploring
 
 * 🤖 Building and experimenting with **AI agents**, **skills**, **plugins**, **hooks**, **MCP servers** and more.
 * 🏗️ Developed AI-powered workflows for end-to-end web application generation and editing.
